@@ -1,4 +1,4 @@
-baseURL = "https://marketing-polska.netlify.com"
+baseURL = "https://marketing-polska.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
